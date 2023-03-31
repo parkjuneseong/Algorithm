@@ -1,2 +1,2 @@
-n = str(input())
+n = input()
 print(ord(n))
