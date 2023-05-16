@@ -1,7 +1,7 @@
-n = int(input())
-li = []
+n =int(input())
+nn = []
 for i in str(n):
-    li.append(int(i))
-li.sort(reverse=1)
-for j in li:
+    nn.append(int(i))
+nn.sort(reverse=1)
+for j in nn:
     print(j,end='')
